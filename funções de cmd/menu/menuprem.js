@@ -20,7 +20,7 @@ return `
 ║⍆║ 
 ║⍆║ ➲ ${prefix}Correio
 ║⍆║ ➲ ${prefix}Delete
-║⍆║ ➲ ${prefix} Gerar-CPF
+║⍆║ ➲ ${prefix}Gerar-CPF
 ║⍆║ ➲ ${prefix}Cep
 ║⍆║ ➲ ${prefix}Placa
 ║⍆║ ➲ ${prefix}DDD
@@ -29,7 +29,8 @@ return `
 ║⍆║ ➲ ${prefix}Hentai-Neko
 ║⍆║ ➲ ${prefix}Hentai
 ║⍆║ ➲ ${prefix}Porno
-║⍆║ ➲ ${prefix}Premiumlist 
+║⍆║ ➲ ${prefix}Premiumlist
+║⍆║ ➲ ${prefix}Desbanir [Número] 
 ║⍆║ ➲ ${prefix}Get
 ║⍆║ ➲ ${prefix}Lyrics
 ║⍆║ ➲ ${prefix}Docfake
